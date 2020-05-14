@@ -2,8 +2,8 @@
   <img src="http://i.imgur.com/OD8QlFQ.png" alt="PSO2 Logo"/>
 </p>
 
-# PSO2 한국어 패치
-PSO2 한국어패치 CSV 저장소에 오신 것을 환영합니다!
+# PSO2 English Patch
+Welcome to the PSO2 English Patch CSV Repository.
 
 Current status of tests and checks: [![CircleCI](https://circleci.com/gh/Arks-Layer/PSO2ENPatchCSV/tree/EN.svg?style=svg)](https://circleci.com/gh/Arks-Layer/PSO2ENPatchCSV/tree/EN)
 
